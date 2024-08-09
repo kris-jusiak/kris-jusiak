@@ -5,4 +5,4 @@
 - https://github.com/tip-of-the-week - A weekly dose of modern C++ challenge
 
 ### Conference talks
-- https://github.com/krzysztof-jusiak/talks
+- https://github.com/krzysztof-jusiak/talks (https://www.youtube.com/playlist?list=PLiKOXcImMb7KFYUFj8pDcwD9wp1JoAd_2)

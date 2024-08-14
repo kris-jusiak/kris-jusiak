@@ -1,5 +1,3 @@
-## Projects
-
 | Name | Descriptionn | Link |
 |-|-|-|
 | [Qlibs++](https://github.com/qlibs) | C++ libraries (Mission: Quality, Performance, Simplicity) | https://qlibs.github.io |
